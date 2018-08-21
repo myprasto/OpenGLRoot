@@ -131,7 +131,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="triangle.cpp" />
+    <ClCompile Include="main_object.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="core.frag" />
