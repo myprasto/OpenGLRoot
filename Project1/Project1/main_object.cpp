@@ -55,9 +55,9 @@ int main()
 
 	GLfloat vertices [] =
 	{
-		-0.5f, -0.5f, 0.0f,		1.0f, 0.0f, 0.0f, // bottom left vertex of triangle
-		0.5f, -0.5f, 0.0f,		0.0f, 1.0f, 0.0f, // bottom right vertex of triangle
-		0.0f, 0.5f, 0.0f,		0.0f, 0.0f, 1.0f  // top middle vertex of triangle
+		-0.5f, -0.5f, 0.0f,		1.0f, 0.4f, 0.7f, // bottom left vertex of triangle
+		0.5f, -0.5f, 0.0f,		0.1f, 1.0f, 0.6f, // bottom right vertex of triangle
+		0.0f, 0.5f, 0.0f,		0.3f, 0.8f, 1.0f  // top middle vertex of triangle
 	};
 
 	GLuint VBO, VAO;
