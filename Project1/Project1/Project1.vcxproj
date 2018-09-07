@@ -131,6 +131,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\sample\SOIL2\src\SOIL2\SOIL2.c" />
     <ClCompile Include="main_object.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -138,6 +139,7 @@
     <None Include="core.vs" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\sample\SOIL2\src\SOIL2\SOIL2.h" />
     <ClInclude Include="Shader.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
